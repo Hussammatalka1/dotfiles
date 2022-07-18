@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hussammatalka1@gmail.com
+	name = hussam matalka
